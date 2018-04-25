@@ -1,0 +1,23 @@
+{
+  "name": "superagent-cheerio",
+  "version": "1.0.0",
+  "description": "学习使用superagent和cheerio分析网页",
+  "main": "app.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "krislee",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "superagent": "^3.8.2"
+  }
+}
